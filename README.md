@@ -1,3 +1,5 @@
+# Graphic Designers all over the world! Go Protest the war!
+
 It is an Adobe Illustrator template and workflow for creating specialized posters and signs fast.  
 
 Users can use their own data and change their own colors + font family, to create time-aware and expedient materials that address specific issues. 
@@ -9,7 +11,7 @@ Users all over the world can use my VariableImporter script (they have to google
 -----------------------------
 * Adobe Illustrator
 * Spreadsheet program/text editor
-* VariableImporter.jsx script (may be needed for non-english languages)
+* [VariableImporter.jsx](https://github.com/Silly-V/Adobe-Illustrator/blob/master/Variable%20Importer/VariableImporter.jsx) script (may be needed for non-english languages)
 
 ## 1st Test Run Instructions:
 -----------------------------
