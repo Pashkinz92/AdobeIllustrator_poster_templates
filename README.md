@@ -9,7 +9,7 @@ Users all over the world can use my VariableImporter script (they have to google
 -----------------------------
 * Adobe Illustrator
 * Spreadsheet program/text editor
-* VariableImporter.jsx script (may be needed for non-english languages)
+* [VariableImporter.jsx](https://github.com/Silly-V/Adobe-Illustrator/blob/master/Variable%20Importer/VariableImporter.jsx) script (may be needed for non-english languages)
 
 ## 1st Test Run Instructions:
 -----------------------------
