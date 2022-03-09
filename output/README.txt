@@ -1,0 +1,1 @@
+The 'output' folder is a sample folder where the exported files could go.

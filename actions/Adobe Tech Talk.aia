@@ -1,0 +1,942 @@
+/version 3
+/name [ 15
+	41646f626520546563682054616c6b
+]
+/isOpen 1
+/actionCount 1
+/action-1 {
+	/name [ 8
+		4578706f72742d31
+	]
+	/keyIndex 0
+	/colorIndex 0
+	/isOpen 1
+	/eventCount 35
+	/event-1 {
+		/useRulersIn1stQuadrant 0
+		/internalName (adobe_setSelection)
+		/localizedName [ 13
+			5365742053656c656374696f6e
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 3
+		/parameter-1 {
+			/key 1952807028
+			/showInPalette -1
+			/type (ustring)
+			/value [ 4
+				666f6e74
+			]
+		}
+		/parameter-2 {
+			/key 2003792484
+			/showInPalette -1
+			/type (boolean)
+			/value 1
+		}
+		/parameter-3 {
+			/key 1667330917
+			/showInPalette -1
+			/type (boolean)
+			/value 1
+		}
+	}
+	/event-2 {
+		/useRulersIn1stQuadrant 0
+		/internalName (adobe_commandManager)
+		/localizedName [ 16
+			416363657373204d656e75204974656d
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 2
+		/parameter-1 {
+			/key 1769238125
+			/showInPalette -1
+			/type (ustring)
+			/value [ 22
+				456469744f726967696e616c204d656e75204974656d
+			]
+		}
+		/parameter-2 {
+			/key 1818455661
+			/showInPalette -1
+			/type (ustring)
+			/value [ 13
+				45646974204f726967696e616c
+			]
+		}
+	}
+	/event-3 {
+		/useRulersIn1stQuadrant 0
+		/internalName (adobe_selectAll)
+		/localizedName [ 10
+			53656c65637420416c6c
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-4 {
+		/useRulersIn1stQuadrant 0
+		/internalName (adobe_copy)
+		/localizedName [ 4
+			436f7079
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-5 {
+		/useRulersIn1stQuadrant 0
+		/internalName (adobe_closeDocument)
+		/localizedName [ 5
+			436c6f7365
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-6 {
+		/useRulersIn1stQuadrant 0
+		/internalName (adobe_paste)
+		/localizedName [ 5
+			5061737465
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-7 {
+		/useRulersIn1stQuadrant 0
+		/internalName (ai_plugin_charstyles)
+		/localizedName [ 16
+			436861726163746572205374796c6573
+		]
+		/isOpen 1
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 2
+		/parameter-1 {
+			/key 1835363957
+			/showInPalette -1
+			/type (integer)
+			/value 5
+		}
+		/parameter-2 {
+			/key 1937011295
+			/showInPalette -1
+			/type (ustring)
+			/value [ 24
+				5265646566696e6520436861726163746572205374796c65
+			]
+		}
+	}
+	/event-8 {
+		/useRulersIn1stQuadrant 0
+		/internalName (adobe_clear)
+		/localizedName [ 5
+			436c656172
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-9 {
+		/useRulersIn1stQuadrant 0
+		/internalName (ai_plugin_find)
+		/localizedName [ 8
+			53656c6563743a20
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 1
+		/parameter-1 {
+			/key 1851878757
+			/showInPalette -1
+			/type (enumerated)
+			/name [ 12
+				54657874204f626a65637473
+			]
+			/value 7
+		}
+	}
+	/event-10 {
+		/useRulersIn1stQuadrant 0
+		/internalName (adobe_move)
+		/localizedName [ 4
+			4d6f7665
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 1
+		/showDialog 0
+		/parameterCount 3
+		/parameter-1 {
+			/key 1752136302
+			/showInPalette -1
+			/type (unit real)
+			/value 0.0
+			/unit 592476268
+		}
+		/parameter-2 {
+			/key 1987339116
+			/showInPalette -1
+			/type (unit real)
+			/value 1.0
+			/unit 592476268
+		}
+		/parameter-3 {
+			/key 1668247673
+			/showInPalette -1
+			/type (boolean)
+			/value 0
+		}
+	}
+	/event-11 {
+		/useRulersIn1stQuadrant 0
+		/internalName (adobe_move)
+		/localizedName [ 4
+			4d6f7665
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 1
+		/showDialog 0
+		/parameterCount 3
+		/parameter-1 {
+			/key 1752136302
+			/showInPalette -1
+			/type (unit real)
+			/value 0.0
+			/unit 592476268
+		}
+		/parameter-2 {
+			/key 1987339116
+			/showInPalette -1
+			/type (unit real)
+			/value -1.0
+			/unit 592476268
+		}
+		/parameter-3 {
+			/key 1668247673
+			/showInPalette -1
+			/type (boolean)
+			/value 0
+		}
+	}
+	/event-12 {
+		/useRulersIn1stQuadrant 0
+		/internalName (adobe_setSelection)
+		/localizedName [ 13
+			5365742053656c656374696f6e
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 3
+		/parameter-1 {
+			/key 1952807028
+			/showInPalette -1
+			/type (ustring)
+			/value [ 4
+				6d61696e
+			]
+		}
+		/parameter-2 {
+			/key 2003792484
+			/showInPalette -1
+			/type (boolean)
+			/value 1
+		}
+		/parameter-3 {
+			/key 1667330917
+			/showInPalette -1
+			/type (boolean)
+			/value 1
+		}
+	}
+	/event-13 {
+		/useRulersIn1stQuadrant 0
+		/internalName (adobe_copy)
+		/localizedName [ 4
+			436f7079
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-14 {
+		/useRulersIn1stQuadrant 0
+		/internalName (adobe_setSelection)
+		/localizedName [ 13
+			5365742053656c656374696f6e
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 3
+		/parameter-1 {
+			/key 1952807028
+			/showInPalette -1
+			/type (ustring)
+			/value [ 8
+				636f6c6f72776179
+			]
+		}
+		/parameter-2 {
+			/key 2003792484
+			/showInPalette -1
+			/type (boolean)
+			/value 1
+		}
+		/parameter-3 {
+			/key 1667330917
+			/showInPalette -1
+			/type (boolean)
+			/value 1
+		}
+	}
+	/event-15 {
+		/useRulersIn1stQuadrant 0
+		/internalName (adobe_commandManager)
+		/localizedName [ 16
+			416363657373204d656e75204974656d
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 2
+		/parameter-1 {
+			/key 1769238125
+			/showInPalette -1
+			/type (ustring)
+			/value [ 22
+				456469744f726967696e616c204d656e75204974656d
+			]
+		}
+		/parameter-2 {
+			/key 1818455661
+			/showInPalette -1
+			/type (ustring)
+			/value [ 13
+				45646974204f726967696e616c
+			]
+		}
+	}
+	/event-16 {
+		/useRulersIn1stQuadrant 0
+		/internalName (ai_plugin_ovalTool)
+		/localizedName [ 12
+			456c6c6970736520546f6f6c
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 1
+		/showDialog 0
+		/parameterCount 7
+		/parameter-1 {
+			/key 1953460076
+			/showInPalette -1
+			/type (integer)
+			/value 14
+		}
+		/parameter-2 {
+			/key 2003072104
+			/showInPalette -1
+			/type (unit real)
+			/value 41.0869565184
+			/unit 592476268
+		}
+		/parameter-3 {
+			/key 1751607412
+			/showInPalette -1
+			/type (unit real)
+			/value 41.0869565239
+			/unit 592476268
+		}
+		/parameter-4 {
+			/key 1668182644
+			/showInPalette -1
+			/type (boolean)
+			/value 0
+		}
+		/parameter-5 {
+			/key 1668183128
+			/showInPalette -1
+			/type (unit real)
+			/value 462.4565217374
+			/unit 592476268
+		}
+		/parameter-6 {
+			/key 1668183129
+			/showInPalette -1
+			/type (unit real)
+			/value -440.4130434793
+			/unit 592476268
+		}
+		/parameter-7 {
+			/key 1667854947
+			/showInPalette -1
+			/type (boolean)
+			/value 0
+		}
+	}
+	/event-17 {
+		/useRulersIn1stQuadrant 0
+		/internalName (adobe_clear)
+		/localizedName [ 5
+			436c656172
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-18 {
+		/useRulersIn1stQuadrant 0
+		/internalName (adobe_paste)
+		/localizedName [ 5
+			5061737465
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-19 {
+		/useRulersIn1stQuadrant 0
+		/internalName (adobe_cut)
+		/localizedName [ 3
+			437574
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-20 {
+		/useRulersIn1stQuadrant 0
+		/internalName (ai_plugin_ovalTool)
+		/localizedName [ 12
+			456c6c6970736520546f6f6c
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 1
+		/showDialog 0
+		/parameterCount 7
+		/parameter-1 {
+			/key 1953460076
+			/showInPalette -1
+			/type (integer)
+			/value 14
+		}
+		/parameter-2 {
+			/key 2003072104
+			/showInPalette -1
+			/type (unit real)
+			/value 41.0869565184
+			/unit 592476268
+		}
+		/parameter-3 {
+			/key 1751607412
+			/showInPalette -1
+			/type (unit real)
+			/value 41.0869565239
+			/unit 592476268
+		}
+		/parameter-4 {
+			/key 1668182644
+			/showInPalette -1
+			/type (boolean)
+			/value 0
+		}
+		/parameter-5 {
+			/key 1668183128
+			/showInPalette -1
+			/type (unit real)
+			/value 462.4565217374
+			/unit 592476268
+		}
+		/parameter-6 {
+			/key 1668183129
+			/showInPalette -1
+			/type (unit real)
+			/value -440.4130434793
+			/unit 592476268
+		}
+		/parameter-7 {
+			/key 1667854947
+			/showInPalette -1
+			/type (boolean)
+			/value 0
+		}
+	}
+	/event-21 {
+		/useRulersIn1stQuadrant 0
+		/internalName (adobe_clear)
+		/localizedName [ 5
+			436c656172
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-22 {
+		/useRulersIn1stQuadrant 0
+		/internalName (adobe_commandManager)
+		/localizedName [ 16
+			416363657373204d656e75204974656d
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 2
+		/parameter-1 {
+			/key 1769238125
+			/showInPalette -1
+			/type (ustring)
+			/value [ 4
+				73617665
+			]
+		}
+		/parameter-2 {
+			/key 1818455661
+			/showInPalette -1
+			/type (ustring)
+			/value [ 4
+				53617665
+			]
+		}
+	}
+	/event-23 {
+		/useRulersIn1stQuadrant 0
+		/internalName (adobe_closeDocument)
+		/localizedName [ 5
+			436c6f7365
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-24 {
+		/useRulersIn1stQuadrant 0
+		/internalName (adobe_openDocument)
+		/localizedName [ 4
+			4f70656e
+		]
+		/isOpen 1
+		/isOn 1
+		/hasDialog 1
+		/showDialog 0
+		/parameterCount 5
+		/parameter-1 {
+			/key 1885431653
+			/showInPalette -1
+			/type (integer)
+			/value 1
+		}
+		/parameter-2 {
+			/key 1668444016
+			/showInPalette -1
+			/type (enumerated)
+			/name [ 7
+				43726f7020546f
+			]
+			/value 4
+		}
+		/parameter-3 {
+			/key 1885823860
+			/showInPalette -1
+			/type (integer)
+			/value 1
+		}
+		/parameter-4 {
+			/key 1851878757
+			/showInPalette -1
+			/type (ustring)
+			/value [ 39
+				433a5c7a69705c6173736574735c74656d706c617465735c506f737465722d31
+				2d706f702e6169
+			]
+		}
+		/parameter-5 {
+			/key 1668246642
+			/showInPalette -1
+			/type (integer)
+			/value 2
+		}
+	}
+	/event-25 {
+		/useRulersIn1stQuadrant 0
+		/internalName (adobe_openDocument)
+		/localizedName [ 4
+			4f70656e
+		]
+		/isOpen 1
+		/isOn 1
+		/hasDialog 1
+		/showDialog 0
+		/parameterCount 5
+		/parameter-1 {
+			/key 1885431653
+			/showInPalette -1
+			/type (integer)
+			/value 1
+		}
+		/parameter-2 {
+			/key 1668444016
+			/showInPalette -1
+			/type (enumerated)
+			/name [ 7
+				43726f7020546f
+			]
+			/value 4
+		}
+		/parameter-3 {
+			/key 1885823860
+			/showInPalette -1
+			/type (integer)
+			/value 1
+		}
+		/parameter-4 {
+			/key 1851878757
+			/showInPalette -1
+			/type (ustring)
+			/value [ 36
+				433a5c7a69705c6173736574735c74656d706c617465735c426c616e6b2d446f
+				632e6169
+			]
+		}
+		/parameter-5 {
+			/key 1668246642
+			/showInPalette -1
+			/type (integer)
+			/value 2
+		}
+	}
+	/event-26 {
+		/useRulersIn1stQuadrant 0
+		/internalName (adobe_selectAll)
+		/localizedName [ 10
+			53656c65637420416c6c
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-27 {
+		/useRulersIn1stQuadrant 0
+		/internalName (adobe_clear)
+		/localizedName [ 5
+			436c656172
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-28 {
+		/useRulersIn1stQuadrant 0
+		/internalName (ai_plugin_swatches)
+		/localizedName [ 8
+			5377617463686573
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 1
+		/parameter-1 {
+			/key 1835363957
+			/showInPalette -1
+			/type (enumerated)
+			/name [ 17
+				53656c65637420416c6c20556e75736564
+			]
+			/value 11
+		}
+	}
+	/event-29 {
+		/useRulersIn1stQuadrant 0
+		/internalName (ai_plugin_swatches)
+		/localizedName [ 8
+			5377617463686573
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 1
+		/showDialog 0
+		/parameterCount 1
+		/parameter-1 {
+			/key 1835363957
+			/showInPalette -1
+			/type (enumerated)
+			/name [ 13
+				44656c65746520537761746368
+			]
+			/value 3
+		}
+	}
+	/event-30 {
+		/useRulersIn1stQuadrant 0
+		/internalName (adobe_pasteInFront)
+		/localizedName [ 14
+			506173746520696e2046726f6e74
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-31 {
+		/useRulersIn1stQuadrant 0
+		/internalName (adobe_group)
+		/localizedName [ 5
+			47726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+	/event-32 {
+		/useRulersIn1stQuadrant 0
+		/internalName (ai_plugin_alignPalette)
+		/localizedName [ 9
+			416c69676e6d656e74
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 1
+		/parameter-1 {
+			/key 1954115685
+			/showInPalette -1
+			/type (enumerated)
+			/name [ 23
+				486f72697a6f6e74616c20416c69676e2043656e746572
+			]
+			/value 2
+		}
+	}
+	/event-33 {
+		/useRulersIn1stQuadrant 0
+		/internalName (ai_plugin_alignPalette)
+		/localizedName [ 9
+			416c69676e6d656e74
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 1
+		/parameter-1 {
+			/key 1954115685
+			/showInPalette -1
+			/type (enumerated)
+			/name [ 21
+				566572746963616c20416c69676e2043656e746572
+			]
+			/value 5
+		}
+	}
+	/event-34 {
+		/useRulersIn1stQuadrant 0
+		/internalName (adobe_saveDocumentAs)
+		/localizedName [ 7
+			53617665204173
+		]
+		/isOpen 1
+		/isOn 1
+		/hasDialog 1
+		/showDialog 0
+		/parameterCount 18
+		/parameter-1 {
+			/key 1869640814
+			/showInPalette -1
+			/type (integer)
+			/value 10
+		}
+		/parameter-2 {
+			/key 1987077222
+			/showInPalette -1
+			/type (boolean)
+			/value 0
+		}
+		/parameter-3 {
+			/key 1970500209
+			/showInPalette -1
+			/type (boolean)
+			/value 0
+		}
+		/parameter-4 {
+			/key 1970499699
+			/showInPalette -1
+			/type (ustring)
+			/value [ 0
+
+			]
+		}
+		/parameter-5 {
+			/key 1836282481
+			/showInPalette -1
+			/type (boolean)
+			/value 0
+		}
+		/parameter-6 {
+			/key 1836281971
+			/showInPalette -1
+			/type (ustring)
+			/value [ 0
+
+			]
+		}
+		/parameter-7 {
+			/key 1886220402
+			/showInPalette -1
+			/type (enumerated)
+			/name [ 16
+				5072696e74696e6720416c6c6f776564
+			]
+			/value 3
+		}
+		/parameter-8 {
+			/key 1886217064
+			/showInPalette -1
+			/type (enumerated)
+			/name [ 15
+				4368616e67657320416c6c6f776564
+			]
+			/value 5
+		}
+		/parameter-9 {
+			/key 1700946800
+			/showInPalette -1
+			/type (boolean)
+			/value 1
+		}
+		/parameter-10 {
+			/key 1700946275
+			/showInPalette -1
+			/type (boolean)
+			/value 1
+		}
+		/parameter-11 {
+			/key 1700946785
+			/showInPalette -1
+			/type (boolean)
+			/value 1
+		}
+		/parameter-12 {
+			/key 1700950132
+			/showInPalette -1
+			/type (boolean)
+			/value 0
+		}
+		/parameter-13 {
+			/key 1851878757
+			/showInPalette -1
+			/type (ustring)
+			/value [ 31
+				433a5c7a69705c6f75747075745c4f75747075742053616d706c652e706466
+			]
+		}
+		/parameter-14 {
+			/key 1718775156
+			/showInPalette -1
+			/type (ustring)
+			/value [ 15
+				5044462046696c6520466f726d6174
+			]
+		}
+		/parameter-15 {
+			/key 1702392942
+			/showInPalette -1
+			/type (ustring)
+			/value [ 3
+				706466
+			]
+		}
+		/parameter-16 {
+			/key 1936548194
+			/showInPalette -1
+			/type (boolean)
+			/value 1
+		}
+		/parameter-17 {
+			/key 1935764588
+			/showInPalette -1
+			/type (boolean)
+			/value 1
+		}
+		/parameter-18 {
+			/key 1936875886
+			/showInPalette -1
+			/type (ustring)
+			/value [ 0
+
+			]
+		}
+	}
+	/event-35 {
+		/useRulersIn1stQuadrant 0
+		/internalName (adobe_openDocument)
+		/localizedName [ 4
+			4f70656e
+		]
+		/isOpen 1
+		/isOn 1
+		/hasDialog 1
+		/showDialog 0
+		/parameterCount 5
+		/parameter-1 {
+			/key 1885431653
+			/showInPalette -1
+			/type (integer)
+			/value 1
+		}
+		/parameter-2 {
+			/key 1668444016
+			/showInPalette -1
+			/type (enumerated)
+			/name [ 7
+				43726f7020546f
+			]
+			/value 4
+		}
+		/parameter-3 {
+			/key 1885823860
+			/showInPalette -1
+			/type (integer)
+			/value 1
+		}
+		/parameter-4 {
+			/key 1851878757
+			/showInPalette -1
+			/type (ustring)
+			/value [ 39
+				433a5c7a69705c6173736574735c74656d706c617465735c506f737465722d31
+				2d706f702e6169
+			]
+		}
+		/parameter-5 {
+			/key 1668246642
+			/showInPalette -1
+			/type (integer)
+			/value 2
+		}
+	}
+}
