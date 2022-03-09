@@ -18,10 +18,11 @@ Users all over the world can use my VariableImporter script (they have to google
 1) Open the file "<Project Folder>\assets\templates\Poster-1-pop.ai".
 2) Load the actions located at "<Project Folder>\actions\Adobe Tech Talk.aia".
 3) The template file already comes with sample data for a test run.
-4) Use the Actions panel, click the flyout menu and choose "Batch..."
-5) Set the Source to "Data Sets" and Destination to "None".
-6) Check the "Override Save Commands" box and put in the sample destination of "<Project Folder>\output"
-7) Hit Play and test the batch process.
+4) **Important!**: Click the flyout meny in the Actions panel and ensure the Playback Options are set to "Step by Step".
+5) Use the Actions panel, click the flyout menu and choose "Batch..."
+6) Set the Source to "Data Sets" and Destination to "None".
+7) Check the "Override Save Commands" box and put in the sample destination of "<Project Folder>\output"
+8) Hit Play and test the batch process.
 
 ## Using own Data & Assets:
 -----------------------------
